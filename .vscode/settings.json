@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "intro_junit-master/src",
+        "intro_junit-master/test"
+    ]
+}
